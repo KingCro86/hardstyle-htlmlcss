@@ -1,0 +1,45 @@
+html{
+    background-color:darkturquoise;
+}
+h1{
+    background-color: goldenrod;
+    font-family:fantasy
+    font-style: oblique;
+    font-size:x-large;
+}
+p{
+    background-color: darkgoldenrod;
+    font-family: fantasy
+    font-style: oblique;
+    font-size:medium;
+}
+h3{
+    background-color: darkgoldenrod;
+    font-family:fantasy
+    font-style: oblique;
+    font-size:medium;
+}
+ul>li{
+    background-color: darkgoldenrod;
+    font-family:sans-serif
+    font-style: oblique;
+    font-size:medium;
+    
+}
+li{
+    text-decoration: lightyellow;
+    font-size:medium;
+    background-color: darkgoldenrod;
+    font-family:sans-serif
+    font-style: oblique;
+}
+ul{
+    font-family:sans-serif
+    font-style: oblique;
+    font-size:medium;
+}
+a{
+    font-family:sans-serif
+    font-style:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:medium;
+}
